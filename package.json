@@ -2,14 +2,14 @@
   "name": "start",
   "version": "2.0.0",
   "description": "Этот проект был создан при помощи Parcel. Для знакомства и настройки дополнительных возможностей [обратись к документации](https://parceljs.org/).",
-  "homepage": "https://manucaffe.github.io//goit-js-hw-08",
+  "homepage": "https://Manucaffe.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://manucaffe.github.io//goit-js-hw-08"
+    "url": "git+https://github.com/Manucaffe/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
